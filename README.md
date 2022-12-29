@@ -22,5 +22,12 @@ Assim, o contrato estabelece que a Troppo realizará a programação de um siste
 
 • o sistema deve armazenar os registros em arquivos.Você deverá se atentar às regras estabelecidas, tratando os valores não permitidos inseridos pelos usuários. 
 
-Para isso, você deverá se atentar às regras estabelecidas, tratando os valores não permitidos inseridos pelos usuários.
+### Tecnologias Utilizadas
+* C# e suas bibliotecas
+
+### Pré-requisitos de instalação
+* Qualquer IDE em que seja possível executar arquivos C# tipo o VSCODE
+
+### Execução da aplicação
+* Ao abrir a pasta em algum executor de código, abrir o terminal de comando e escrever dotnet run
 
