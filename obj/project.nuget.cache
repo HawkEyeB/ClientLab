@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7VwK2N+1vOBFWODhrX8i5/T5mqEQ6ehwnvwkzfdXLo8/WgwljudPK0SqSZFvQYmZ650G/NvLMaZEWobuSDMn+A==",
+  "dgSpecHash": "uDuCTQciHdoXDpS3az0rFooRzlXDs7i+AZt6uc3vscR/2jWhvWvufmgu+LgOZAIsnRDPNp3qtinr6mHB3mQxDA==",
   "success": true,
-  "projectFilePath": "D:\\ClientLab-main\\ClientLab.csproj",
+  "projectFilePath": "D:\\Projetos C#\\ClientLab\\ClientLab.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

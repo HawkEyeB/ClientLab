@@ -1,0 +1,2 @@
+Banco do Brasil,14250250000195,Eduardo,500000,Limoeiro,13,True
+Bradesco,25680150000125,Eduardo,350000,Limoeiro,30,True
