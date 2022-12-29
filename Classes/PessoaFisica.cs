@@ -11,6 +11,22 @@ namespace ClientLab.Classes
         public string? Cpf;
         public string? DataNascimento;
 
+        public override float PagarImposto(float rendimento)
+        {
+            if (rendimento <= 1500)
+            {
+                return rendimento;
+            }
+            else if (rendimento <= 5000)
+            {
+                return (rendimento - (rendimento / 100) * 3);
+            }
+            else
+            {
+                return (rendimento - (rendimento / 100) * 5);
+            }
+        }
+
         public bool ValidarDataNasc(string dataNasc)
         {
             DateTime dataConvertida; //tipo nativo que retorna uma data

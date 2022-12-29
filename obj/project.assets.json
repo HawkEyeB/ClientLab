@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\TATAI\\.nuget\\packages\\": {}
+    "C:\\Users\\pedro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos C#\\Pessoa\\Pessoa.csproj",
-      "projectName": "Pessoa",
-      "projectPath": "C:\\Projetos C#\\Pessoa\\Pessoa.csproj",
-      "packagesPath": "C:\\Users\\TATAI\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos C#\\Pessoa\\obj\\",
+      "projectUniqueName": "D:\\ClientLab-main\\ClientLab.csproj",
+      "projectName": "ClientLab",
+      "projectPath": "D:\\ClientLab-main\\ClientLab.csproj",
+      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+      "outputPath": "D:\\ClientLab-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TATAI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -6,17 +6,13 @@ using ClientLab.Interfaces;
 
 namespace ClientLab.Classes
 {
-    public class Pessoa : IPessoa
+    public abstract class Pessoa : IPessoa
     {
         public string? Nome;
         public Endereco? Endereco;
-
         public float Rendimento;
 
-        public float PagarImposto(float rendimento)
-        {
-            throw new NotImplementedException();
-        }
-    }
+        public abstract float PagarImposto(float rendimento);
 
+    }
 }

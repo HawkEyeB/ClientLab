@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-
 namespace ClientLab.Classes
 {
     public class Endereco
@@ -11,6 +10,5 @@ namespace ClientLab.Classes
         public string? Logradouro;
         public int Numero;
         public bool IsComercial { get; set; }
-
     }
 }
